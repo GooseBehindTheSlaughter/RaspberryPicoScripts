@@ -6,8 +6,8 @@ led = machine.Pin("LED", machine.Pin.OUT)
 
 # WIFI SETTINGS
 
-WIFI_SSID = 'VM2409701'
-WIFI_PASSWORD = 'rbrb6snPxhjg'
+WIFI_SSID = ''
+WIFI_PASSWORD = ''
 
 # Set up a wireless hotspot with WIFI_SSID/WIFI_PASSWORD above, useful for testing
 WIFI_AP_MODE = False
